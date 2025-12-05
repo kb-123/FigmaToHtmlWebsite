@@ -1,0 +1,235 @@
+@media only screen and (min-width: 200px) and (max-width: 575px) {
+.container img {
+    height: 2vh;
+    width: 15vw;
+  }
+
+  body {
+    font-size: 15px;
+  }
+
+.buttoncontent {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background-color: white;
+    padding: 5px 0px;
+    justify-content: center !important;
+  }
+
+#chatbtn {
+    padding: 2px 4px;
+    font-size: 15px;
+  }
+
+#Callbtn {
+    font-size: 15px;
+    padding: 2px 4px;
+  }
+
+.container-body h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+br {
+    display: none;
+  }
+
+.container-body p,
+  .container-body ul li {
+    font-size: 16px;
+  }
+
+.container-button {
+    flex-direction: column;
+  }
+
+.container-button button {
+    padding: 5px 3px;
+    font-size: 12px;
+    width: 100%;
+  }
+
+.formcontent {
+    padding: 24px;
+  }
+
+.section1 {
+    margin-top: 24px !important;
+    padding: 14px;
+  }
+
+.section2 h3 {
+    text-align: center;
+    font-size: 26px;
+  }
+
+.section2 p {
+    font-size: 12px;
+  }
+
+.section2Btn {
+    padding: 8px 14px;
+    width: 200px;
+    height: 34px;
+    margin-top: 24px !important;
+    font-size: 12px;
+  }
+
+.sectionitems {
+    padding: 12px !important;
+  }
+
+.sectionitems h4 {
+    font-size: 15px;
+  }
+
+.sectionitems p {
+    font-size: 10px;
+    margin-bottom: 6px;
+  }
+
+.section3 h1 {
+    font-size: 30px;
+  }
+
+.section3 p {
+    font-size: 10px;
+    margin-bottom: 0px;
+  }
+
+.section3row {
+    margin-top: 0px !important;
+  }
+
+.section4 h1 {
+    font-size: 27px;
+   text-align: center;
+  }
+
+.section4 p {
+    font-size: 13px;
+    text-align: center;
+  }
+
+.section4items{
+    flex-direction: column;
+  }
+
+.section4items p{
+    text-align: start;
+  }
+
+.section4main {
+    display: block !important;
+  }
+
+.section4{
+    height: 964px;
+  }
+
+.section4img{
+    height: 20vh;
+  width: 32vw;
+  }
+
+.section4img img{
+    height: 20vh;
+  width: 32vw;
+  }
+
+.section4btn{
+    margin: auto 89px;
+  }
+
+.section5 h1 {
+    font-size: 32px;
+   
+  }
+
+.section5 p {
+    font-size: 12px;
+   
+  }
+
+.nav-pills .nav-link.active {
+    font-size: 15px;
+}
+
+.nav-pills .nav-link {
+    font-size: 15px;
+}
+
+
+.section5_2 ul li {
+  line-height: 25px;
+}
+
+.section5_2 ul li p {
+  margin: 0px;
+}
+
+.section6 h3 {
+  font-size: 26px;
+ 
+}
+
+.section6 p {
+  font-size: 13px;
+}
+
+.section5Btn {
+  font-size: 13px;
+  width: 185px;
+  height: 33px;
+}
+
+.section7 h1 {
+  font-size: 25px;
+}
+
+.section7 p {
+  font-size: 12px;
+}
+
+.section8 h1 {
+  font-size: 28px;
+}
+
+.section8 p {
+  font-size: 12px;
+}
+
+.accordion-item .accordion-header .accordion-button {
+  font-size: 13px;
+}
+
+.section9 h1 {
+  font-size: 29px;
+}
+
+.image9 img {
+  height: 3vh;
+  width: 87vw;
+}
+
+.section10 .section10items p {
+  font-size: 10px;
+}
+
+.divider
+{
+  margin: 1px;
+}
+
+footer
+{
+  height: 167px;
+}
+
+footer p
+{
+  font-size: 10px;
+}
+}
